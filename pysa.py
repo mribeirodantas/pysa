@@ -86,5 +86,3 @@ def cocktail_sort(l):
                 swapped = True
 
     return l
-
-print cocktail_sort([1, 10, 2, 25, 22, 30, 100])
